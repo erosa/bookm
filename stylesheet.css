@@ -1,0 +1,7 @@
+td, p, body {
+	font-family: arial, sans-serif;
+}
+
+.alert {
+	color: red; 
+}
